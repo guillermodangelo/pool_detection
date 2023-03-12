@@ -1,3 +1,6 @@
 images/
-chips/extent
-chips/images
+images_tif/
+data_predict/
+data_train/
+data_results/
+modelo/
