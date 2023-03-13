@@ -2,5 +2,6 @@ images/
 images_tif/
 data_predict/
 data_train/
-data_results/
+data_results/3D/
+data_results/filtered/
 modelo/
