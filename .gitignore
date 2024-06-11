@@ -6,3 +6,6 @@ data_results/3D/
 data_results/filtered/
 modelo/
 raster_for_webmap/
+
+.venv/
+__pycache__/
